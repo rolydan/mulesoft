@@ -1,0 +1,11 @@
+#####################################################################################
+###                                                                               ###
+### FICHERO DE INSTRUCCIONES DE API MANAGER PARA LAS POLÍTICAS DEL API Nº16504979 ###
+###                                                                               ###
+###       IMPORTANTE NO TOCAR EL NÚMERO DEL API SALVO CAMBIO EN EL SISTEMA        ###
+###                                                                               ###
+###               ACCIONES DISPONIBLES: ADD,DEL,UPDATE,STOP                       ###
+###                                                                               ###
+#####################################################################################
+
+ACCION:STOP
