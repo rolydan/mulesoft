@@ -1,0 +1,11 @@
+{
+   "configurationData":{
+      "rateLimits":[
+         {
+            "timePeriodInMilliseconds":60000,
+            "maximumRequests":100
+         }
+      ]
+   },
+   "assetId":"rate-limiting"
+}
