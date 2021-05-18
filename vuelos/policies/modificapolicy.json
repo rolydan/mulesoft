@@ -3,12 +3,9 @@
       "rateLimits":[
          {
             "timePeriodInMilliseconds":160000,
-            "maximumRequests":500
+            "maximumRequests":1000
          }
       ]
-   },
-   "assetId":"rate-limiting",
-   "assetVersion": "1.0.0",
-   "groupId":"GRP_ID"
+   }
 }
 
