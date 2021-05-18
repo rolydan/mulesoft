@@ -2,7 +2,7 @@
    "configurationData":{
       "rateLimits":[
          {
-            "timePeriodInMilliseconds":160000,
+            "timePeriodInMilliseconds":100000,
             "maximumRequests":500
          }
       ]
