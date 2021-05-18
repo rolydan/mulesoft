@@ -2,10 +2,13 @@
    "configurationData":{
       "rateLimits":[
          {
-            "timePeriodInMilliseconds":60000,
-            "maximumRequests":100
+            "timePeriodInMilliseconds":160000,
+            "maximumRequests":500
          }
       ]
    },
-   "assetId":"rate-limiting"
+   "assetId":"rate-limiting",
+   "assetVersion": "1.0.0",
+   "groupId":"GRP_ID"
 }
+
