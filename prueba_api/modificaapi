@@ -2,13 +2,12 @@
 ### DATOS PARA EL API EN EXCHANGE ##
 ####################################
 
-NOMBRE_API=vuelos
+NOMBRE_API=prueba_api
 DESCRIPCION=Descripcion del API
 KEYWORDS=palabras,clave,separadas,por,comas
-FICHERO_PROPIEDADES=american-flights-api.raml
-VERSION_API=2.2.2
-FICHERO_PRINCIPAL=american-flights-api.raml
-DEFINICION_RAML=training-american-flights-api-1.0.0-raml.zip
+VERSION_API=3.3.3
+FICHERO_PRINCIPAL=API.raml
+DEFINICION_RAML=API.raml
 
 
 ##################################
@@ -16,8 +15,7 @@ DEFINICION_RAML=training-american-flights-api-1.0.0-raml.zip
 ##################################
 
 TIPO_API=rest_api
-URI=www.prueba2.com
-PROXY_URI=www.proxy_uri2.com
+URI=www.prueba3.com
+PROXY_URI=www.proxy_uri3.com
 ISCLOUDHUB=false
-INSTANCE_LABEL=prueba_api2_label
-ACTUALIZA_VERSION=SI
+INSTANCE_LABEL=prueba_api3_label
