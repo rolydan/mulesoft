@@ -6,7 +6,7 @@ NOMBRE_API=vuelos
 DESCRIPCION=Descripcion del API
 KEYWORDS=palabras,clave,separadas,por,comas
 FICHERO_PROPIEDADES=american-flights-api.raml
-VERSION_API=2.1.1
+VERSION_API=1.1.2
 FICHERO_PRINCIPAL=american-flights-api.raml
 DEFINICION_RAML=training-american-flights-api-1.0.0-raml.zip
 
@@ -20,3 +20,4 @@ URI=www.vuelos.com
 PROXY_URI=www.proxy_uri.com
 ISCLOUDHUB=false
 INSTANCE_LABEL=vuelos_label
+ACTUALIZA_VERSION=SI
