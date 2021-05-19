@@ -1,0 +1,13 @@
+{
+    "status": "ACTIVE",
+    "autoApprove": true,
+    "limits": [
+      {
+        "visible": true,
+        "maximumRequests": 7,
+        "timePeriodInMilliseconds": 2
+      }
+    ],
+    "name": "SLA_PRUEBA",
+    "description": "SLA de prueba"
+  }
