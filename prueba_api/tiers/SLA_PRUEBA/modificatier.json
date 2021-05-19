@@ -4,7 +4,7 @@
     "limits": [
       {
         "visible": true,
-        "maximumRequests": 7,
+        "maximumRequests": 88,
         "timePeriodInMilliseconds": 3
       }
     ],
