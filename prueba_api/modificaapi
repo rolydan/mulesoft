@@ -5,7 +5,7 @@
 NOMBRE_API=prueba_api
 DESCRIPCION=Descripcion del API
 KEYWORDS=palabras,clave,separadas,por,comas
-VERSION_API=1.3.3
+VERSION_API=1.1.1
 FICHERO_PRINCIPAL=API.raml
 DEFINICION_RAML=API.raml
 
@@ -15,7 +15,7 @@ DEFINICION_RAML=API.raml
 ##################################
 
 TIPO_API=rest_api
-URI=www.prueba133.com
+URI=www.prueba133yyyyyyyyyyyyyfffffffffffff.com
 PROXY_URI=www.proxy_uri133.com
 ISCLOUDHUB=false
 INSTANCE_LABEL=prueba_api133_label
