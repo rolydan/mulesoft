@@ -5,7 +5,7 @@
       {
         "visible": true,
         "maximumRequests": 7,
-        "timePeriodInMilliseconds": 2
+        "timePeriodInMilliseconds": 3
       }
     ],
     "name": "SLA_PRUEBA",
