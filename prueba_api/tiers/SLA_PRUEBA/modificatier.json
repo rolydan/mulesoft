@@ -4,8 +4,8 @@
     "limits": [
       {
         "visible": true,
-        "maximumRequests": 33,
-        "timePeriodInMilliseconds": 1
+        "maximumRequests": 7,
+        "timePeriodInMilliseconds": 3
       }
     ],
     "name": "SLA_PRUEBA",
