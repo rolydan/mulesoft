@@ -5,7 +5,7 @@
 NOMBRE_API=prueba_api
 DESCRIPCION=Descripcion del API
 KEYWORDS=palabras,clave,separadas,por,comas
-VERSION_API=1.1.1
+VERSION_API=1.0.0
 FICHERO_PRINCIPAL=API.raml
 DEFINICION_RAML=API.raml
 
