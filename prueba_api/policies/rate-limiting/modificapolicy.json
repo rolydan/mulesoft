@@ -1,0 +1,11 @@
+{
+   "configurationData":{
+      "rateLimits":[
+         {
+            "timePeriodInMilliseconds":1500,
+            "maximumRequests":50
+         }
+      ]
+   }
+}
+
